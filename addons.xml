@@ -4,7 +4,7 @@
     <extension name="TRuHa Add-ons Repository" point="xbmc.addon.repository">
       <info compressed="false">https://raw.githubusercontent.com/TRuHa/Repo.Kodi/master/addons.xml</info>
       <checksum>https://raw.githubusercontent.com/TRuHa/Repo.Kodi/master/addons.xml.md5</checksum>
-      <datadir zip="true">https://github.com/TRuHa/Repo.Kodi/releases/download/0.0.1/service.autofan-0.0.1.zip</datadir>
+      <datadir zip="true">https://github.com/TRuHa/Repo.Kodi/master/releases/</datadir>
     </extension>
     <extension point="xbmc.addon.metadata">
       <summary>Instala TRuHa Add-ons</summary>
